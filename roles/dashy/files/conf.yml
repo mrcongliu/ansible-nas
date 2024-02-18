@@ -56,3 +56,8 @@ sections:
         provider: https://vaemendis.net/ubooquity/
         icon: far fa-book
         url: https://ubooquity.mrcongliu.com/
+      - title: Jellyfin
+        description: Free local media server
+        provider: https://jellyfin.org/
+        icon: far fa-tv
+        url: https://jellyfin.mrcongliu.com/
