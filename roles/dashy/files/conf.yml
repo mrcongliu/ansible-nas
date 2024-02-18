@@ -27,6 +27,17 @@ sections:
         description: Source Code, Issues and Pull Requests
         icon: far fa-code
         url: https://code-server.mrcongliu.com/
+      - title: Jellyfin
+        description: Free local media server
+        url: https://jellyfin.mrcongliu.com/
+        icon: far fa-headphones
+      - title: Deluge
+        description: Free local BiTorrent server
+        url: https://deluge.mrcongliu.com/
+        icon: far fa-headphones
+  - name: Book Lover
+    icon: fas fa-book
+    items:
       - title: Calibre-Web
         description: Online bookstore
         provider: https://github.com/janeczku/calibre-web
@@ -36,14 +47,14 @@ sections:
         description: Music Streaming
         url: https://airsonic.mrcongliu.com/
         icon: far fa-headphones
-      - title: Jellyfin
-        description: Free local media server
-        url: https://jellyfin.mrcongliu.com/
-        icon: far fa-headphones
-      - title: Deluge
-        description: Free local BiTorrent server
-        url: https://deluge.mrcongliu.com/
-        icon: far fa-headphones
+      - title: Ubooquity
+        description: Custom comic books
+        provider: https://vaemendis.net/ubooquity/
+        icon: far fa-book
+        url: https://ubooquity.mrcongliu.com/
+  - name: Career Advancement
+    icon: fas fa-network
+    items:
       - title: Fresh RSS
         description: Custom Feed News
         provider: https://freshrss.org/
@@ -59,8 +70,3 @@ sections:
         provider: https://freshrss.org/
         icon: far fa-newspaper
         url: https://miniflux.mrcongliu.com/
-      - title: Ubooquity
-        description: Custom comic books
-        provider: https://vaemendis.net/ubooquity/
-        icon: far fa-book
-        url: https://ubooquity.mrcongliu.com/
