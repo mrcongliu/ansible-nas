@@ -31,10 +31,10 @@ sections:
         description: Free local media server
         url: https://jellyfin.mrcongliu.com/
         icon: far fa-headphones
-      - title: Deluge
-        description: Free local BiTorrent server
-        url: https://deluge.mrcongliu.com/
-        icon: far fa-headphones
+      # - title: Deluge
+      #   description: Free local BiTorrent server
+      #   url: https://deluge.mrcongliu.com/
+      #   icon: far fa-headphones
   - name: Book Lover
     icon: fas fa-book
     items:
